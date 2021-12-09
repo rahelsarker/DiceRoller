@@ -2,4 +2,17 @@
     <string name="app_name">Dice Roller</string>
     <string name="name">Rahel Mahfooz Sarker</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Rahel.
+        \n\nThis is an assignment for
+        \n\nCSETL372 Mobile Application Development
+        \n\nDepartment of Computer Science and Engineering
+        \n\nEvening Masters Program
+        \n\nUniversity of Rajshahi
+        \n\nRajshahi
+        \n\nBangladesh.
+        \n\nThis
+        \n\nText
+        \n\nis
+        \n\nScrollable.
+    </string>
 </resources>
